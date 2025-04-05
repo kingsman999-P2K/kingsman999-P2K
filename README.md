@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi stackers 👋
 
-<!--
-**kingsman999-P2K/kingsman999-P2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Ghalahad** is a definitely not a repository because he's human
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on levelling up from pawn to king 👑
+- 🌱 I’m currently learning basic web development and system operations 💻💻
+- 👯 I’m looking to collaborate on projects ranging from web security to API security 
+- 🤔 I’m looking for help with open source additions and guesses
+- 💬 Ask me about nothing 👍
+- 📫 How to reach me: dontstalkmep2k@gmail.com 
+- 😄 Pronouns: He/Him not they :)
+- ⚡ Fun fact: All animals are equal but some animals are more equal than others - George Orwell
+
