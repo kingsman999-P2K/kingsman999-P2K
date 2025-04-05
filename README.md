@@ -1,7 +1,7 @@
 ## Hi stackers 👋
 
 
-**Ghalahad** is a definitely not a repository because he's human
+**Ghalahad** is definitely not a repository because he's human
 
 - 🔭 I’m currently working on levelling up from pawn to king 👑
 - 🌱 I’m currently learning basic web development and system operations 💻💻
